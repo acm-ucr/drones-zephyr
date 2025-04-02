@@ -1,2 +1,2 @@
-# drones-team-3
+# drones-zephyr
 The repository for the third team of ACM Forge's Autonomous Drone Project. 
